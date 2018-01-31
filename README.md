@@ -1,6 +1,8 @@
 Time Travelers - English Preview Patch
 ============================
 
+This patch is a preview of our current work and how far we can edit the game now. It only includes an edited menu and the intro sequence with translated movies and subtitles.
+
 You can create issues if you find typos or errors in the issues page.
 
 **How to patch the game**
